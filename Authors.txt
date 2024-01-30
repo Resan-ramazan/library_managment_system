@@ -1,0 +1,16 @@
+		Author
+DBConnection =  Ramazan Alkoyun
+SignUpPage   =  Ramazan Alkoyun
+LoginPage    =  Ramazan Alkoyun	
+HomePage     =  Ramazan Alkoyun
+IssueBook    =  Ramazan Alkoyun
+
+DefaulterList = Eren Sezer
+ViewAllRecord = Eren Sezer
+ReturnBook    = Eren Sezer
+
+IssueBookDetails = Yusuf Songur
+ManageBook = Yusuf Songur
+ManageStudens = Yusuf Songur
+
+
